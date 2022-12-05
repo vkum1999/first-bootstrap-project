@@ -1,0 +1,103 @@
+#tittle{
+    background-color: rgb(240, 95, 95);
+    color: white;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h2{
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.fa-solid{
+    color: red;
+}
+
+
+
+
+
+ .navbar-brand .nav-item {
+    background-color: red;
+    color: white;
+}
+
+    
+.top{
+    color: white;
+}
+
+.iphone{
+    transform: rotate(30deg);
+    width: 30%;
+    height: 80%;
+    padding: 1.2rem 0;
+}
+.container-1{
+    color: white;
+    font-size: 4.6875rem;
+
+}
+.middle-box{
+    text-align: center;
+    padding: 5%;
+}
+.navbar-brand{
+    color: white;
+}
+.dog{
+    width: 50px;
+    height: 30px;
+    border-radius: 7%;
+}
+.lady{
+    width: 50px;
+    height: 40px;
+    border-radius: 7px;
+}
+.carousel-item{
+    position: absolute;
+    text-align: center;
+} 
+.body{
+    font-family: "Montserrat";
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}  
+#third{
+    background-color:  rgb(238, 138, 138);
+    color: white;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+padding: 7%,15%;
+box-sizing: border-box;
+display: block;
+}
+.press-images{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.img{
+    vertical-align: middle;
+    border-style: none;
+}
+#press{
+    background-color:  rgb(238, 138, 138);
+    
+}
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    
+}
